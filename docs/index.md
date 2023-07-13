@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Caden Main's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Caden Main
+I am studying GeoBussiness and Data Anylitics at Brigham Young University, the target to graduate is April 2024. I am wanting to be a mine geologist or do consulting work in the feild of geology.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,71 +16,75 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021-2024`
+__Education Brigham Young University Idaho__
 
-- Full academic scholarship with 4.0 GPA
+- 
 
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Studying GeoBussiness and Data Anylitics
+- Have certificate in Geospatial Information Systems (GIS)
+- Have current and up to date CDL
+- Eagle Scout
+- 3.4 Major GPA
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2016-2017`
+__Team Member__, Chick fil a
+
+- Trained to treat customers with respect and in accordance with
+Chick-fil a's exceptional customer service guidlines
+
+- Handled customer transactions and was trained how to run and
+operate a cash register
+
+- Trained on proper food safety and handling procedures and was
+trained to use industrial kitchen equipment to cook food properly
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2018`
+__Service Technican__, Courtesy Acura in Centeniall
+
+- Completed repairs and maintenance work for approximately 40-50
+passenger vehicles each week
+
+- Used a complex set of resources and tools, such as hydraulic lifts, high end machinery and basic hand tools to preform designated
+tasks and jobs 
+
+- Demonstrated a willingness to learn quickly and effectivly y by
+performing different tasks and working with a different mentor every day
+
+`2018-2020`
+__Full Time Missonary__, Church of Jesus Christ of Latter Day Saints
+
+- Spent 2 years in Santos, Brazil teaching people the restored gosple of of Jesus Christ and helping them get closer with Jesus Christ
+
+`2021-2022`
+__Tour Bus Driver/Guide__,Alaska Coach Tours
+
+- Transporting clients from airports, hotels, and other destinations safely and securely
+
+- Carry out vehicle maintenance and inspections
+
+- Clearly and articulately provide information to guests in an engaging manner
+
+- Answer any questions that guests had as clearly as possible
+
+- Demonstrate extensive knowledge of the city and surrounding areas
+
+- Follow a strict and timely schedule of arrival/pick up
 
 
+`2022-2023`
+__Dispatcher__,Public Safty Office BYU Idaho
+
+- Communicate effectivly with security officers and officals in the area of jeristiction
+
+- Answers questions and concers by phone and email
 
 <!-- ### Footer
 
